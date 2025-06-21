@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Bright Bassey
 
-<!--
-**Bbright2001/Bbright2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Blockchain Developer Intern** currently learning how to build secure, scalable smart contracts using **Solidity** and **Foundry**. I’m focused on becoming a fullstack dApp developer with deep knowledge of both **smart contracts** and **frontend integration** using **ethers.js** and **React**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I'm Currently Working On
+
+- 🧠 Learning advanced Solidity
+- ⚒️ Writing unit tests using **Foundry** to ensure secure contract logic
+- 🌐 Building dApps with **JavaScript**, **ethers.js**, and **React**
+- 🗳️ Projects like: Voting dApp, To-Do Smart Contract, Ether Wallet
+
+---
+
+## 🧰 Tech Stack So Far
+
+- **Languages:** Solidity, JavaScript, HTML, CSS
+- **Tools:** Foundry, Remix, Git & GitHub, MetaMask
+- **Frontend:** Vanilla JS (learning React), ethers.js(soon), Tailwind (soon)
+
+---
+
+## 📦 Projects
+
+- [📝 To-Do Smart Contract](https://github.com/Bbright2001/ToDoSmartContract)
+- [💰 Ether Wallet Contract](https://github.com/Bbright2001/EtherWalletSmartContract)
+- [📊 Voting Contract ](https://github.com/Bbright2001/VotingSmartContract)
+
+---
+
+## 📫 Let’s Connect
+
+- 🌍 [LinkedIn](https://linkedin.com/in/your-link-here)
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 📬 brightbasseydev@gmail.com
+
+---
+
+> “Learning in public, building every day, and never settling.”  
+> #buildinpublic #solidity #web3developer
+
