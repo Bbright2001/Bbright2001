@@ -30,10 +30,8 @@ I'm a passionate **Blockchain Developer Intern** currently learning how to build
 ---
 
 ## 📫 Let’s Connect
-
-- 🌍 [LinkedIn](https://linkedin.com/in/your-link-here)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📬 brightbasseydev@gmail.com
+- 🐦 [Twitter](https://x.com/basseybright185)
+- 📬 basseyu01@gmail.com
 
 ---
 
