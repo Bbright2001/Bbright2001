@@ -21,14 +21,6 @@ I'm a passionate **Blockchain Developer Intern** currently learning how to build
 
 ---
 
-## 📦 Projects
-
-- [📝 To-Do Smart Contract](https://github.com/Bbright2001/ToDoSmartContract)
-- [💰 Ether Wallet Contract](https://github.com/Bbright2001/EtherWalletSmartContract)
-- [📊 Voting Contract ](https://github.com/Bbright2001/VotingSmartContract)
-
----
-
 ## 📫 Let’s Connect
 - 🐦 [Twitter](https://x.com/basseybright185)
 - 📬 basseyu01@gmail.com
